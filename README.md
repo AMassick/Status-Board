@@ -11,5 +11,5 @@ Table For Used Room: http://amassick.github.io/SBU/
 
 Table For Empty Room: http://amassick.github.io/SBA/
 
-Table For Daily Schedule: http://amassick.github.io/SBA/
+Table For Daily Schedule: http://amassick.github.io/SBC/
 
